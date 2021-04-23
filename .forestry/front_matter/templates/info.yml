@@ -10,7 +10,7 @@ fields:
     schema:
       format: html-blocks
 - type: textarea
-  name: cta
+  name: cta1
   label: cta1
   config:
     wysiwyg: true
