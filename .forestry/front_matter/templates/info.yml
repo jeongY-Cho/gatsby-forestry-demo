@@ -11,7 +11,7 @@ fields:
       format: html-blocks
 - type: textarea
   name: cta
-  label: cta
+  label: cta1
   config:
     wysiwyg: true
     schema:
