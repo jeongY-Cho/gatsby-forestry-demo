@@ -1,4 +1,11 @@
 {
-  "explainer_title": "samaritan is a support platform to empowers people without a home to <strong>move forward</strong>",
-  "title_cta": "help people <strong>find their way home</strong>"
+  "explainer_title": "samaritan is a support platform<br>that <em>empowers people without a<br>home to </em><strong><em>move forward</em></strong>",
+  "title_cta": "help people <strong>find<br>their way home</strong>",
+  "explainer_subtitle": "individuals gain the social and financial support needed to <strong><em>rebuild hope</em></strong> and <strong><em>reach housing</em></strong>",
+  "how_it_works_slider_content": {
+  },
+  "become_samaritan_cta_title": "these are <strong>our neighbors</strong>",
+  "become_samaritan_cta_content": "<p>During this unprecented time, it's never been more important to help them find a safe, stable, supportive place to sleep at night.</p><p>We find that when we wrap a <strong><em>social home</em></strong> around someone, they <strong><em>gain the capacity</em></strong> to often find the <strong><em>physical home</em></strong> soon after.</p><p>You are invited to join one or many who seek to find a home this year.</p>",
+  "solutions_slider_content": {
+  }
 }
