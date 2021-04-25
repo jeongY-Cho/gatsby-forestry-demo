@@ -20,5 +20,14 @@ fields:
     schema:
       format: html
   label: Explainer Title
+- name: explainer_subtitle
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html
+  label: Explainer Subtitle
 pages:
 - content/pages/home.json
