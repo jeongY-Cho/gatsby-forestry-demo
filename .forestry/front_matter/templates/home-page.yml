@@ -11,5 +11,14 @@ fields:
     schema:
       format: html
   label: Title CTA
+- name: explainer_title
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Explainer Title
 pages:
 - content/pages/home.json
