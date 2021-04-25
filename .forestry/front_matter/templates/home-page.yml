@@ -11,3 +11,5 @@ fields:
     schema:
       format: html
   label: Title CTA
+pages:
+- content/pages/home.json
