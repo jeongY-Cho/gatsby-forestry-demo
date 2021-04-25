@@ -7,9 +7,8 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/pages/home
+  path: content/pages/home.json
   label: Home Page
-  match: "**/*"
 - type: document
   path: content/data/info.json
   label: info
