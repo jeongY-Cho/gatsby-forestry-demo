@@ -2,13 +2,12 @@
 label: Home Page
 hide_body: true
 fields:
-- name: explainer_title
-  type: text
+- name: title_cta
+  type: textarea
+  default: ''
   config:
     required: true
-  label: Explainer title
-- name: explainer_subtitle
-  type: text
-  config:
-    required: true
-  label: Explainer subtitle
+    wysiwyg: true
+    schema:
+      format: html
+  label: Title CTA
