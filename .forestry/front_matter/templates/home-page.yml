@@ -29,5 +29,31 @@ fields:
     schema:
       format: html
   label: Explainer Subtitle
+- name: how_it_works_slider_content
+  type: field_group
+  config: {}
+  label: How It Works Slider Content
+- name: become_samaritan_cta_title
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html
+  label: Become Samaritan CTA title
+- name: become_samaritan_cta_content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Become Samaritan CTA content
+- name: solutions_slider_content
+  type: field_group
+  config: {}
+  label: Solutions Slider Content
 pages:
 - content/pages/home.json
