@@ -35,5 +35,6 @@ fields:
   label: image
 pages:
 - content/components/testimonialSlider/beacon-holder.json
+- content/components/testimonialSlider/now-housed-beacon-holder-1.json
 - content/components/testimonialSlider/now-housed-beacon-holder.json
 - content/components/testimonialSlider/samaritan-app-user.json
