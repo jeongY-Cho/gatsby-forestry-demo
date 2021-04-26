@@ -3,5 +3,6 @@
   "title": "merchants",
   "description": "Offer a flexible way for vulnerable community members pay for critical goods &amp; services.",
   "link_path": "/merchants",
-  "is_initial_active_item": false
+  "is_initial_active_item": false,
+  "hide_link": true
 }
