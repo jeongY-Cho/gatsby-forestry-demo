@@ -37,3 +37,5 @@ fields:
     required: true
   label: Position
   description: position of item
+pages:
+- content/components/solutionsSlider/a-person-in-need.json
