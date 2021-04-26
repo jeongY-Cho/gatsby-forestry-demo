@@ -25,7 +25,7 @@ sections:
   label: Testimonial Slider
   create: documents
   match: "*.json"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - testimonial-slider
 - type: document
