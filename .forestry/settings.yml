@@ -4,15 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/components/howItWorksSlider.json
-  label: How it works Slider
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
   path: content/pages/home.json
   label: Home Page
+- type: document
+  path: content/components/howItWorksSlider.json
+  label: How it works Slider
+  match: "**/*"
 - type: document
   path: content/data/info.json
   label: info
