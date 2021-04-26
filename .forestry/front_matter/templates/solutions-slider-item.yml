@@ -39,3 +39,4 @@ fields:
   description: position of item
 pages:
 - content/components/solutionsSlider/a-person-in-need.json
+- content/components/solutionsSlider/managed-care.json
