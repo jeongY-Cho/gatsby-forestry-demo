@@ -14,7 +14,7 @@ sections:
   label: Walkthrough Slider
 - type: directory
   path: content/components/solutionsSlider
-  label: Solutions Slider Items
+  label: Solutions Slider
   create: documents
   match: "*.json"
   new_doc_ext: json
