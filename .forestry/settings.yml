@@ -33,7 +33,7 @@ sections:
   label: Partner Slider
   create: documents
   match: "*.json"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - partner-slider
 - type: document

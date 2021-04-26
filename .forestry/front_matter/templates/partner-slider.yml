@@ -3,13 +3,13 @@ label: Partner Slider Item
 hide_body: true
 display_field: organization_name
 fields:
-- name: organization_name
+- name: partner_name
   type: text
   config:
     required: true
-  label: Organization Name
-- name: organization_logo
+  label: Partner Name
+- name: partner_logo
   type: file
   config:
     maxSize: 64
-  label: Organization Logo
+  label: Partner Logo
