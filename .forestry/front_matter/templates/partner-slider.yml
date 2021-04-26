@@ -13,3 +13,5 @@ fields:
   config:
     maxSize: 64
   label: Partner Logo
+pages:
+- content/components/partnerSlider/marys-place.json
