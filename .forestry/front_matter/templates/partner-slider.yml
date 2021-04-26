@@ -1,6 +1,7 @@
 ---
-label: Partner Slider
+label: Partner Slider Item
 hide_body: true
+display_field: organization_name
 fields:
 - name: organization_name
   type: text
