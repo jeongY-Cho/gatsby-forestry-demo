@@ -1,1 +1,24 @@
-{}
+{
+  "title": "it all starts with <strong><em>you</em></strong>",
+  "subtitle": "help meet immediate needs and<br>be part of <strong>life-changing outcomes</strong><br>in your community",
+  "section_1": {
+    "title": "reach people in need",
+    "description": "<p>When a person becomes a <em>Samaritan Member</em>, they set top-level goals with a care provider, as well as related action steps and needs for those goals. From here, Members can access funds from a <strong><em>team of samaritans</em></strong> (folks like you!) looking to support their journey.</p>"
+  },
+  "section_2": {
+    "title": "enable steps foreward",
+    "description": "Members also earn $10-$20 bonuses as they take action steps towards goals, such as meeting with a housing specialist, getting a COVID-19 shot, or building a resume. Money for this comes from our Action Fund.me"
+  },
+  "section_3": {
+    "title": "meet immediate needs",
+    "description": "Funds are redeemed alongside the care provider to address critical needs, such as food, bills, prescriptions, move-in fees, transportation, and more."
+  },
+  "section_4": {
+    "title": "<strong>everyone needs a team…</strong>",
+    "description": "Each individual is backed by a team of <em>volunteer</em> and professional samaritans. Each team commits monthly acts of kindness around the person directly, raising <em>hope &amp; capacity</em> to find housing, employment, recovery, and more."
+  },
+  "section_5": {
+    "title": "so they can<br><strong>move forward</strong>",
+    "description": "Strengthened relationships with care providers, coupled with social and financial support from the community, have helped members reach <strong><em>life-changing outcomes</em></strong> like a stable home."
+  }
+}
