@@ -17,7 +17,7 @@ sections:
   label: Solutions Slider Items
   create: documents
   match: "*.json"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - solutions-slider-item
 - type: document

@@ -16,3 +16,8 @@ fields:
     schema:
       format: html
   label: description
+- name: link_path
+  type: text
+  config:
+    required: true
+  label: link path
