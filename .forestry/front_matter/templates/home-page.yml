@@ -29,10 +29,6 @@ fields:
     schema:
       format: html
   label: Explainer Subtitle
-- name: how_it_works_slider_content
-  type: field_group
-  config: {}
-  label: How It Works Slider Content
 - name: become_samaritan_cta_title
   type: textarea
   default: ''
@@ -51,9 +47,5 @@ fields:
     schema:
       format: html-blocks
   label: Become Samaritan CTA content
-- name: solutions_slider_content
-  type: field_group
-  config: {}
-  label: Solutions Slider Content
 pages:
 - content/pages/home.json
