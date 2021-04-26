@@ -10,8 +10,8 @@ sections:
   path: content/pages/home.json
   label: Home Page
 - type: document
-  path: content/components/howItWorksSlider.json
-  label: How it works Slider
+  path: content/components/walkthroughSlider.json
+  label: Walkthrough Slider
 - type: directory
   path: content/components/solutionsSlider
   label: Solutions Slider Items
