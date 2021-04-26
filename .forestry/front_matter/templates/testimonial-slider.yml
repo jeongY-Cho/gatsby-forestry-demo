@@ -33,6 +33,22 @@ fields:
   config:
     maxSize: 64
   label: Image
+- name: testimonial_type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Samaritan Member
+    - Samaritan
+    - LCP
+    - Other
+    source:
+      type: simple
+      section: testimonial-slider
+      file: content/components/solutionsSlider/managed-care.json
+      path: 
+  label: Testimonial Type
 pages:
 - content/components/testimonialSlider/heidi-miller.json
 - content/components/testimonialSlider/jamie-winship.json
