@@ -37,6 +37,10 @@ fields:
     required: true
   label: Position
   description: position of item
+- name: hide_link
+  type: boolean
+  label: Hide Link?
+  description: whether or not to hide the page link for this item
 pages:
 - content/components/solutionsSlider/a-person-in-need.json
 - content/components/solutionsSlider/community-hospitals.json
