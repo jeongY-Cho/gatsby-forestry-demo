@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/components/howItWorksSlider.json
   label: How it works Slider
-  match: "**/*"
 - type: document
   path: content/data/info.json
   label: info

@@ -15,10 +15,10 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
-    wysiwyg: false
+    required: true
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html
   label: subtitle
 - name: section_1
   type: field_group
