@@ -26,3 +26,14 @@ fields:
   default: false
   label: Is Initial Active Item
   description: make this item the initial active item on load
+- name: index
+  type: number
+  default: 0
+  required: true
+  config:
+    min: 1
+    max: 
+    step: 1
+    required: true
+  label: Position
+  description: position of item
