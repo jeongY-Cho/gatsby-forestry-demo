@@ -1,4 +1,137 @@
 ---
 label: How It Works Slider
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html
+  label: title
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: subtitle
+- name: section_1
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: description
+  label: Section 1
+- name: section_2
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: description
+  label: Section 2
+- name: section_3
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: description
+  label: Section 3
+- name: section_4
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: description
+  label: Section 4
+- name: section_5
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html
+    label: description
+  label: Section 5
