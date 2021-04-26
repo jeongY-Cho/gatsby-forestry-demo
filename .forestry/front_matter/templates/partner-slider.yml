@@ -14,4 +14,5 @@ fields:
     maxSize: 64
   label: Partner Logo
 pages:
+- content/components/partnerSlider/amazon.json
 - content/components/partnerSlider/marys-place.json
