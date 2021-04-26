@@ -1,6 +1,7 @@
 ---
-label: Testimonial Slider
+label: Testimonial Slider Item
 hide_body: true
+display_field: name
 fields:
 - name: name
   type: text
