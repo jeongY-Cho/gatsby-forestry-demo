@@ -33,7 +33,7 @@ fields:
   config:
     maxSize: 64
   label: Image
-- name: testimonial_type
+- name: testimonial_category
   type: select
   default: []
   config:
@@ -48,7 +48,7 @@ fields:
       section: testimonial-slider
       file: content/components/solutionsSlider/managed-care.json
       path: 
-  label: Testimonial Type
+  label: Testimonial Category
 pages:
 - content/components/testimonialSlider/heidi-miller.json
 - content/components/testimonialSlider/jamie-winship.json
