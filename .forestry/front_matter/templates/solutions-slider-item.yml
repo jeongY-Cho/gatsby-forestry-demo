@@ -19,5 +19,5 @@ fields:
 - name: link_path
   type: text
   config:
-    required: true
+    required: false
   label: link path
