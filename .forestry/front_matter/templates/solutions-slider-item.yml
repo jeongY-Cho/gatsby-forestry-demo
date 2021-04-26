@@ -21,3 +21,8 @@ fields:
   config:
     required: false
   label: link path
+- name: is_initial_active_item
+  type: boolean
+  default: false
+  label: Is Initial Active Item
+  description: make this item the initial active item on load
