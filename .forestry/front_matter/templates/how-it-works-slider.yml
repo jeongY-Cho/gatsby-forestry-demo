@@ -135,5 +135,3 @@ fields:
         format: html
     label: description
   label: Section 5
-pages:
-- content/components/howItWorksSlider.json
