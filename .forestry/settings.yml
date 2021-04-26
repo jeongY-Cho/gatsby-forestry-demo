@@ -28,6 +28,14 @@ sections:
   new_doc_ext: json
   templates:
   - testimonial-slider
+- type: directory
+  path: content/components/partnerSlider
+  label: Partner Slider
+  create: documents
+  match: "*.json"
+  new_doc_ext: ".json"
+  templates:
+  - partner-slider
 - type: document
   path: content/data/info.json
   label: info
