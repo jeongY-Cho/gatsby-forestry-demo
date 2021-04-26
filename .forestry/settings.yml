@@ -20,6 +20,14 @@ sections:
   new_doc_ext: json
   templates:
   - solutions-slider-item
+- type: directory
+  path: content/components/testimonialSlider
+  label: Testimonial Slider
+  create: documents
+  match: "*.json"
+  new_doc_ext: ".json"
+  templates:
+  - testimonial-slider
 - type: document
   path: content/data/info.json
   label: info
